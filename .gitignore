@@ -23,6 +23,8 @@ var/
 # Virtual environments
 venv/
 venv_gend/
+deepfake/
+deep fake/
 ENV/
 env.bak/
 venv.bak/
